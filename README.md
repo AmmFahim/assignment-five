@@ -1,2 +1,2 @@
-Live Link: [https://mdfuadislam.github.io/B11-A5/]
-Repo Link: [https://github.com/mdFuadIslam/B11-A5.git]
+Live Link: [https://ammfahim.github.io/assignment-five/]
+Repo Link: [https://github.com/AmmFahim/assignment-five]
