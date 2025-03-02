@@ -1,4 +1,10 @@
 [ I practiced on this repo, but i don't know how i lost this repository .]
+
+
+
+
+
+
 Question-1: What are the different ways to select an element in the DOM?
 Answer:
 document.getElementById("id");
